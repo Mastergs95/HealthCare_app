@@ -1,0 +1,40 @@
+C:\Users\119190\Desktop\Tecno\Tecno\bin\Debug\Tecno.exe.config
+C:\Users\119190\Desktop\Tecno\Tecno\bin\Debug\Tecno.exe
+C:\Users\119190\Desktop\Tecno\Tecno\bin\Debug\Tecno.pdb
+C:\Users\119190\Desktop\Tecno\Tecno\bin\Debug\MetroFramework.Design.dll
+C:\Users\119190\Desktop\Tecno\Tecno\bin\Debug\MetroFramework.dll
+C:\Users\119190\Desktop\Tecno\Tecno\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.csprojAssemblyReference.cache
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.Form1.resources
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.Form2.resources
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.Form3.resources
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.Form4.resources
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.Properties.Resources.resources
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.csproj.GenerateResource.cache
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.csproj.CoreCompileInputs.cache
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.csproj.CopyComplete
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.exe
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.pdb
+C:\Users\119190\Desktop\Tecno\Tecno\obj\Debug\Tecno.Form5.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\bin\Debug\Tecno.exe.config
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\bin\Debug\Tecno.exe
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\bin\Debug\Tecno.pdb
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\bin\Debug\MetroFramework.dll
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form1.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form2.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form3.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form4.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form5.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form6.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form7.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form8.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Form9.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.Properties.Resources.resources
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.csproj.GenerateResource.cache
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.csproj.CopyComplete
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.exe
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.pdb
+C:\Users\Gonçalo\Desktop\Projeto Tecnológico\Tecno\Tecno\obj\Debug\Tecno.csprojAssemblyReference.cache
